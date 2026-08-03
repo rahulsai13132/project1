@@ -1,0 +1,38 @@
+[
+    {
+        "id": "usr_001",
+        "full_name": "Alex Johnson",
+        "student_id": "STU2026001",
+        "department": "Computer Science & Engineering",
+        "year": "Final Year (BE)",
+        "email": "alex.johnson@smartcampus.edu",
+        "mobile": "+19876543210",
+        "username": "alexj",
+        "password": "$2b$12$mkBqSPMSfiT8nLe88BqXHOV.57x0nuWiPai7fDTSH0Mh/tgCgIgDq",
+        "created_at": "2026-08-03T12:38:09.862975"
+    },
+    {
+        "id": "usr_002",
+        "full_name": "Sarah Miller",
+        "student_id": "STU2026002",
+        "department": "Data Science & AI",
+        "year": "Third Year (TE)",
+        "email": "sarah.m@smartcampus.edu",
+        "mobile": "+19876543211",
+        "username": "sarahm",
+        "password": "$2b$12$mkBqSPMSfiT8nLe88BqXHOV.57x0nuWiPai7fDTSH0Mh/tgCgIgDq",
+        "created_at": "2026-08-03T12:38:09.862985"
+    },
+    {
+        "id": "usr_6797bdcc",
+        "full_name": "p v rahul sai",
+        "student_id": "122311520216",
+        "department": "Computer Science & Engineering",
+        "year": "Final Year (BE)",
+        "email": "pvrahulsai@gmail.com",
+        "mobile": "9700984041",
+        "username": "rahulsai145",
+        "password": "$2b$12$gTKCXJ6NA2qMgxKE9YtsO.t6xsGS1NooyUVUMeKKf9KE6Iys5ueNq",
+        "created_at": "2026-08-03T12:40:59.730662"
+    }
+]

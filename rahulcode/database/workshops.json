@@ -1,0 +1,24 @@
+[
+    {
+        "id": "wsp_001",
+        "workshop_name": "Generative AI & LLM Fine-Tuning",
+        "trainer": "Dr. Aris Thorne (AI Specialist)",
+        "venue": "Auditorium A & Online Live",
+        "department": "Data Science & AI",
+        "date": "2026-08-15",
+        "seats": 60,
+        "description": "Hands-on masterclass building custom AI agents using LangChain, OpenAI API, and Streamlit.",
+        "registration_link": "https://smartcampus.edu/workshops/genai"
+    },
+    {
+        "id": "wsp_002",
+        "workshop_name": "Modern Cloud DevOps with Kubernetes & Terraform",
+        "trainer": "Elena Rostova (DevOps Architect)",
+        "venue": "Computer Lab 4",
+        "department": "Computer Science & Engineering",
+        "date": "2026-08-18",
+        "seats": 45,
+        "description": "Learn container orchestration, CI/CD pipelines, and cloud automation best practices.",
+        "registration_link": "https://smartcampus.edu/workshops/devops"
+    }
+]

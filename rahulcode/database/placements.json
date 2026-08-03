@@ -1,0 +1,35 @@
+[
+    {
+        "id": "plc_001",
+        "company": "Google Cloud",
+        "package": "$120,000 / year",
+        "location": "Mountain View, CA / Remote",
+        "eligibility": "GPA >= 3.5, CSE / IT / Data Science",
+        "skills_required": "Python, Go, Distributed Systems, Cloud Architecture",
+        "deadline": "2026-08-25",
+        "apply_link": "https://careers.google.com",
+        "status": "Open"
+    },
+    {
+        "id": "plc_002",
+        "company": "Microsoft AI Solutions",
+        "package": "$115,000 / year",
+        "location": "Redmond, WA",
+        "eligibility": "Final Year Students, CSE / AI",
+        "skills_required": "PyTorch, Machine Learning, OpenAI APIs, Azure",
+        "deadline": "2026-08-30",
+        "apply_link": "https://careers.microsoft.com",
+        "status": "Open"
+    },
+    {
+        "id": "plc_003",
+        "company": "Tesla Robotics",
+        "package": "$110,000 / year",
+        "location": "Austin, TX",
+        "eligibility": "BE Mechanical, Electrical, Electronics",
+        "skills_required": "C++, Robotics, Control Systems, Computer Vision",
+        "deadline": "2026-09-05",
+        "apply_link": "https://www.tesla.com/careers",
+        "status": "Upcoming"
+    }
+]

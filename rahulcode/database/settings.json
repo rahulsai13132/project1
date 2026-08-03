@@ -1,0 +1,9 @@
+[
+    {
+        "id": "setting_global",
+        "theme_mode": "Dark",
+        "notifications_enabled": true,
+        "language": "English",
+        "auto_summarize_notices": true
+    }
+]

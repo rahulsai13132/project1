@@ -1,0 +1,29 @@
+[
+    {
+        "id": "not_001",
+        "title": "Annual Hackathon 2026 Registration Open",
+        "description": "SmartCampus Hackathon 2026 kicks off next week! Form teams of up to 4 students and showcase innovative solutions in AI, IoT, and Web Dev. Cash prizes worth $5,000.",
+        "department": "Computer Science & Engineering",
+        "date": "2026-08-01",
+        "priority": "High",
+        "publisher": "Dean of Academics"
+    },
+    {
+        "id": "not_002",
+        "title": "Mid-Semester Examination Schedule Released",
+        "description": "The official timetable for Mid-Semester Exams is now uploaded on the student portal. Exams commence on August 20th.",
+        "department": "All Departments",
+        "date": "2026-08-02",
+        "priority": "High",
+        "publisher": "Examination Cell"
+    },
+    {
+        "id": "not_003",
+        "title": "Campus Placement Drive by TechCorp",
+        "description": "TechCorp is visiting for Campus Recruitment for Software Engineers and Data Analysts. Eligible streams: CSE, IT, Data Science.",
+        "department": "Information Technology",
+        "date": "2026-08-03",
+        "priority": "Medium",
+        "publisher": "Training & Placement Cell"
+    }
+]

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B0F19;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1E1B4B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F172A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bgGrad)"/>
+  <!-- Decorative background circles -->
+  <circle cx="1000" cy="50" r="180" fill="#6366F1" opacity="0.15" filter="blur(40px)"/>
+  <circle cx="200" cy="250" r="150" fill="#EC4899" opacity="0.1" filter="blur(30px)"/>
+  <!-- Grid Lines -->
+  <path d="M 0 50 L 1200 50 M 0 100 L 1200 100 M 0 150 L 1200 150 M 0 200 L 1200 200 M 0 250 L 1200 250" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+  
+  <!-- Banner Text Content -->
+  <text x="60" y="110" font-family="'Outfit', sans-serif" font-size="44" font-weight="800" fill="#FFFFFF">SmartCampus <tspan fill="url(#accentGrad)">AI Ecosystem</tspan></text>
+  <text x="60" y="155" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="500" fill="#94A3B8">Empowering Students &amp; Faculty with AI-Driven Insights, Placements, &amp; Smart Governance</text>
+  
+  <!-- Feature Badges -->
+  <g transform="translate(60, 190)">
+    <rect x="0" y="0" width="160" height="38" rx="19" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)"/>
+    <text x="80" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">📢 Real-time Notices</text>
+    
+    <rect x="180" y="0" width="170" height="38" rx="19" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)"/>
+    <text x="265" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">💼 Campus Drives</text>
+    
+    <rect x="370" y="0" width="170" height="38" rx="19" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)"/>
+    <text x="455" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600" fill="#F8FAFC" text-anchor="middle">🤖 AI Career Advisor</text>
+  </g>
+</svg>
